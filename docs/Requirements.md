@@ -51,3 +51,4 @@ Technical requirements describe the technical aspects and issues that need to be
 - The application will be built with .NET 8 to leverage its performance improvements and modern features.
 - If LLM usage is included, prioritize a lightweight language model capable of running on end-user hardware for efficient operation.
 - Use SignalR for real-time updates if live data is required (e.g., ingredient pricing updates).
+
