@@ -12,7 +12,7 @@
 | **Feature**                   | **Description**                                                       | **Priority** | **Change**   |
 |-------------------------------|-----------------------------------------------------------------------|--------------|--------------|
 | Meal Suggestions              | Provide meal suggestions factoring in budget and preferences.         | 3            | No           |
-| Budget Input                  | Accept user’s budget and calculate meals accordingly.                 | 3            | No           |
+| Budget Input                  | Accept user's budget and calculate meals accordingly.                 | 3            | No           |
 | Ingredient Cost Estimation    | Estimate meal costs based on local or average ingredient prices.      | 3            | Yes          |
 | Meal Filters                  | Allow users to filter meals by dietary preferences or cooking time.   | 3            | Yes          |
 | Smart Fridge                  | Suggest meals based on available ingredients and expiration dates.    | 2            | Yes          |
@@ -21,6 +21,8 @@
 | Ingredient Substitution       | Suggest cost-effective alternatives for ingredients.                  | 2            | No           |
 | Offline Mode                  | Save user data and meal lists locally for offline access.             | 1            | No           |
 | Push Notifications            | Notify users about expiring ingredients or meal ideas.                | 1            | No           |
+| Basic Nutritional Info            |                | 1            | Yes         |
+| Community Recipe Sharing            |                | 1            | No          |
 
 | **Priority** | **Meaning**    |
 |--------------|----------------|
