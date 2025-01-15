@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MealWise.WebApp", "MealWise.WebApp", "{94784255-3B4A-4091-8A3D-67807506114D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MealWise.WebApp", "MealWiseWebApp\MealWiseWebApp\MealWise.WebApp.csproj", "{57A5BA27-B8E9-4F0A-8864-205E7BE20880}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MealWise.WebApp.Client", "MealWiseWebApp\MealWiseWebApp.Client\MealWise.WebApp.Client.csproj", "{33B9219D-EBE5-4360-AEBA-3D74800E8D42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MealWise.SharedKernel", "MealWise.SharedKernel\MealWise.SharedKernel.csproj", "{E82D044A-B015-4B9A-A42C-F7B95F1D2445}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57A5BA27-B8E9-4F0A-8864-205E7BE20880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57A5BA27-B8E9-4F0A-8864-205E7BE20880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57A5BA27-B8E9-4F0A-8864-205E7BE20880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57A5BA27-B8E9-4F0A-8864-205E7BE20880}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33B9219D-EBE5-4360-AEBA-3D74800E8D42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33B9219D-EBE5-4360-AEBA-3D74800E8D42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33B9219D-EBE5-4360-AEBA-3D74800E8D42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33B9219D-EBE5-4360-AEBA-3D74800E8D42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E82D044A-B015-4B9A-A42C-F7B95F1D2445}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E82D044A-B015-4B9A-A42C-F7B95F1D2445}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E82D044A-B015-4B9A-A42C-F7B95F1D2445}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E82D044A-B015-4B9A-A42C-F7B95F1D2445}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{57A5BA27-B8E9-4F0A-8864-205E7BE20880} = {94784255-3B4A-4091-8A3D-67807506114D}
+		{33B9219D-EBE5-4360-AEBA-3D74800E8D42} = {94784255-3B4A-4091-8A3D-67807506114D}
+	EndGlobalSection
+EndGlobal
