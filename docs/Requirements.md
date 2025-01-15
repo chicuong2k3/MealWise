@@ -2,10 +2,9 @@
 
 ## Links
 - [Requirements](#requirements)
-  - [Links](#links)
-  - [Core Features](#core-features)
-  - [Functional Requirements](#functional-requirements)
-  - [Technical Requirements](#technical-requirements)
+- [Core Features](#core-features)
+- [Functional Requirements](#functional-requirements)
+- [Technical Requirements](#technical-requirements)
 
 ## Core Features
 
